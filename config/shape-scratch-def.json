@@ -1,0 +1,22 @@
+{
+    "orgName": "carlson-pkg-001 - Feature Test Org",
+    "sourceOrg": "00D1I000001Y4P3UAK",
+    "settings": {
+        "chatterSettings": {
+            "enableChatter": true
+        },
+        "apexSettings": {
+            "enableDisableParallelApexTesting": true
+        },
+        "enhancedNotesSettings": {
+            "enableEnhancedNotes": true
+        },
+        "lightningExperienceSettings": {
+            "enableS1DesktopEnabled": true
+        }
+    },
+    "features": [
+        "API",
+        "DeferSharingCalc"
+    ]
+}

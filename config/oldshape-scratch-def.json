@@ -1,0 +1,15 @@
+{
+    "orgName": "carlson-pkg-001 - Dev Test Org",
+    "sourceOrg": "00D1I000001Y4P3UAK",
+    "settings": {
+        "orgPreferenceSettings": {
+            "s1DesktopEnabled": true,
+            "chatterEnabled": true,
+            "notesReservedPref01": true
+        }
+    },
+    "features": [
+        "API",
+        "DeferSharingCalc"
+    ]
+}
